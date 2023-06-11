@@ -1,6 +1,8 @@
 # Eonia
 A 2d pixeled Street Fighter styled game
 
+DOWNLOAD ZIP FILE FROM CODE OPTION.
+
 Made out of python,i cant really gaurantee the performance,but works pretty good on cpus with atleast 4 cores(remommended)
 Also uses a lot of functions from pygame library
 

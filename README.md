@@ -3,12 +3,12 @@ A 2d pixeled Street Fighter styled game
 
 DOWNLOAD ZIP FILE FROM CODE OPTION.
 
-Made out of python,i cant really gaurantee the performance,but works pretty good on cpus with atleast 4 cores(remommended)
-Also uses a lot of functions from pygame library
+Made out of Python, I can't guarantee the performance but works pretty well on CPUs with at least 4 cores(recommended)
+Also uses a lot of functions from the Pygame library
 
 To play download the entire folder the open the 'main' file.
 Remember, open the file from the folder itself.
-This is beacause to access the assets inside the folder
+This is because to access the assets inside the folder
 
 
 Player 1- a,w,s,d(movement) r,t(attack)
